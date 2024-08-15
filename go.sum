@@ -1,2 +1,8 @@
-github.com/Carmen-Shannon/simple-discord v0.0.0-20240804220943-4a083c88ced2 h1:HANzz9ombKqpDvpQppKRGyeokmZg31IFEwNCh01dGK4=
-github.com/Carmen-Shannon/simple-discord v0.0.0-20240804220943-4a083c88ced2/go.mod h1:z4FL6Gxb8u/TKE3a4RvV0K/XARhueQD43EK4ztfFPkA=
+github.com/Carmen-Shannon/simple-discord v0.2.1 h1:uR2/7EuXPy8Fr8faEZVMzI1/eF8eap6nPm/+wXk6VHc=
+github.com/Carmen-Shannon/simple-discord v0.2.1/go.mod h1:z4FL6Gxb8u/TKE3a4RvV0K/XARhueQD43EK4ztfFPkA=
+github.com/Carmen-Shannon/simple-discord v0.2.2 h1:QC5sPPwCuU3SdSTHgYy5pl+khrEGEHKkiSNYHjmpYTM=
+github.com/Carmen-Shannon/simple-discord v0.2.2/go.mod h1:z4FL6Gxb8u/TKE3a4RvV0K/XARhueQD43EK4ztfFPkA=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+golang.org/x/net v0.28.0 h1:a9JDOJc5GMUJ0+UDqmLT86WiEy7iWyIhz8gz8E4e5hE=
+golang.org/x/net v0.28.0/go.mod h1:yqtgsTWOOnlGLG9GFRrK3++bGOUEkNBoHZc8MEDWPNg=
